@@ -1,0 +1,11 @@
+.containt { src: format(q);
+
+width: 400px;
+height: inherit;
+bottom:  90px;
+grid-template: auto;
+color: #482;
+justify-self: :flex-start;
+   
+}
+ 
